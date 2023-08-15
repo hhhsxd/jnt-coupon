@@ -1,0 +1,54 @@
+div{
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.container {
+        width: 100%;
+        min-width:320px;
+        max-width: 375px;
+        overflow: hidden;
+        min-height: 667px;
+        .wrapper{
+   padding-bottom:50px;
+   overflow: hidden;
+}
+    }
+
+a,button,input,p{
+    text-decoration: none;
+    background: none;
+    border: none;
+    color: black;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+     .login-wrapper{
+        margin-top: 30px;
+        text-align: center;
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+            i{
+                font-size: 26px;
+                margin-right: 10px;
+              ;
+            }
+            input{
+                height: 30px;
+                border-radius: 15px;
+                border: 1px solid rgb(0, 0, 0);
+                padding: 0 10px;
+                font-size: 18px;
+            }
+    
+        }
+    }
+    :root:root{
+        --van-tabbar-item-font-size:18px;
+    }
