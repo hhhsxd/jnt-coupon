@@ -1,2 +1,2 @@
 # jnt-coupon
-vue3 +express+MySQL+COS
+vue3+typescript+express+MySQL+COS
